@@ -7,7 +7,7 @@ In this project, we analyze data using Python to gain insights and answer questi
 
 ## Data
 
-The data used in this project is a CSV file containing Netflix data. We import the data into our notebook and clean it as needed.
+The data used in this project is a CSV file containing data on the World Oldest Businesses. We import the data into our notebook and clean it as needed.
 
 ## Analysis
 
