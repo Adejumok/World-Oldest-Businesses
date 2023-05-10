@@ -1,4 +1,4 @@
-# World-Oldest-Businesses-
+# World-Oldest-Businesses
 This project use joining techniques to discover the oldest businesses in the world.
 
 ## Introduction
