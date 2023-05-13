@@ -46,4 +46,4 @@ To use this project, clone the repository and run the Jupyter Notebook file in y
 
 ## Credits
 
-This project is a DataCamp Intermdiate Python Project
+This project is a DataCamp Intermdiate Python Project.
