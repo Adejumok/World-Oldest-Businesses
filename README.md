@@ -1,5 +1,5 @@
 # World-Oldest-Businesses
-Welcome to the World Oldest Businesses Data Analytics project! This project aims to analyze and gain insights into businesses worldwide using Python programming and data analytics techniques. By leveraging real-world datasets and powerful Python libraries, we explore the landscape of businesses around the world, uncover patterns, trends, and key indicators.
+Welcome to the World's Oldest Businesses Data Analytics project! This project aims to analyze and explore data related to some of the world's oldest businesses using Python programming and data analytics techniques. By leveraging historical datasets and powerful Python libraries, we delve into the rich history of long-standing businesses, uncovering fascinating insights and trends.
 
 ## Introduction
 
