@@ -10,7 +10,6 @@ The longevity of businesses is a testament to their resilience and ability to ad
 The main objectives of this project are:
 
 - Explore the characteristics that enable a business to stand the test of time? 
-- Identify the oldest businesses in each continent?
 - Identify and analyze the world's oldest businesses across various industries and regions.
 - Explore the historical context and factors contributing to the longevity of these businesses.
 - Investigate the strategies and practices adopted by these businesses to survive and thrive over the years.
