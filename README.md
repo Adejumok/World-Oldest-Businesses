@@ -33,7 +33,7 @@ We start by exploring the data and understanding its structure. We then use vari
 We present our findings in this section using various visualizations such as graphs, charts, and tables. We also provide insights and interpretations of the data and answer the questions we set out to explore in the introduction.
 
 ## Conclusion
-
+By examining historical data and utilizing various data analysis techniques, we gained valuable insights into the longevity and characteristics of these long-standing establishments. Our findings shed light on the remarkable resilience and adaptability of these businesses, many of which have withstood the test of time for centuries.
 
 ## Dependencies
 
