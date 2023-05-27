@@ -15,7 +15,6 @@ The main objectives of this project are:
 - Visualize the distribution and trends of the oldest businesses across different time periods and geographic locations.
 - Uncover interesting stories and anecdotes about these enduring establishments.
 
-
 ## Data
 
 The data used in this project is a CSV file containing data on the World Oldest Businesses. We import the data into our notebook and clean it as needed.
