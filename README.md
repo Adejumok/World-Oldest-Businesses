@@ -5,7 +5,6 @@ Welcome to the World's Oldest Businesses Data Analytics project! This project ai
 
 The longevity of businesses is a testament to their resilience and ability to adapt to changing times. This project focuses on exploring and analyzing data about the world's oldest businesses to gain a deeper understanding of their origins, industries, and survival strategies. By utilizing Python's data analytics capabilities, we aim to extract valuable insights and tell compelling stories about these remarkable establishments.
 
-
 ## Objectives
 The main objectives of this project are:
 
