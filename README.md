@@ -34,6 +34,7 @@ We present our findings in this section using various visualizations such as gra
 
 ## Conclusion
 By examining historical data and utilizing various data analysis techniques, we gained valuable insights into the longevity and characteristics of these long-standing establishments. Our findings shed light on the remarkable resilience and adaptability of these businesses, many of which have withstood the test of time for centuries.
+We discovered that the oldest businesses primarily belong to the Banking and Finance industries. These sectors have demonstrated their ability to evolve and survive across generations, adjusting their operations to meet changing societal needs and economic conditions. This highlights the importance of flexibility and innovation in sustaining a business over extended periods.
 
 ## Dependencies
 
