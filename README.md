@@ -34,7 +34,6 @@ We present our findings in this section using various visualizations such as gra
 
 ## Conclusion
 
-Well, as we suspected, non-typical genres such as children's movies and documentaries are all clustered around the bottom half of the plot. But we can't know for certain until we perform additional analyses. We are not certain that movies are getting shorter.
 
 ## Dependencies
 
