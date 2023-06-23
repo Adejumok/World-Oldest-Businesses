@@ -31,7 +31,7 @@ The project is structured as follows:
     - `2_monthly_deaths.csv`
     - `3_project_image.png`
     - 4_yearly_deaths_by_clinic.csv
-  - `notebook.ipynb`
+  - `notebook.ipynb`: Contains the Jupyter Notebook file.
 - `README.md`: Project overview and instructions.
 
 ## Analysis
