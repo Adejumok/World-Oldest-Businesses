@@ -28,7 +28,7 @@ The project is structured as follows:
 - `datasets` folder: Contains the dataset files:
     - `1_businesses.csv`
     - `2_categories.csv`
-    - `3_project_image.png`
+    - `3_countries.csv`
     - 4_yearly_deaths_by_clinic.csv
 - `notebook.ipynb`: Contains the Jupyter Notebook file.
 - `README.md`: Project overview and instructions.
