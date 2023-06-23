@@ -20,6 +20,20 @@ The main objectives of this project are:
 
 The data used in this project is a CSV file containing data on the World Oldest Businesses. We import the data into our notebook and clean it as needed.
 
+
+## Project Structure
+
+The project is structured as follows:
+
+- `workspace` folder: Contains the dataset and the Jupyter Notebook file.
+  - `datasets` folder: Contains the dataset files:
+    - `1_ignaz_semmelweis_1860.jpeg`
+    - `2_monthly_deaths.csv`
+    - `3_project_image.png`
+    - 4_yearly_deaths_by_clinic.csv
+  - `notebook.ipynb`
+- `README.md`: Project overview and instructions.
+
 ## Analysis
 
 We start by exploring the data and understanding its structure. We then use various Python libraries such as Pandas, Numpy, and Matplotlib to analyze the data and visualize our findings. We perform various data analysis tasks such as:
