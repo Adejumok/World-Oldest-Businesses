@@ -25,13 +25,12 @@ The data used in this project is a CSV file containing data on the World Oldest 
 
 The project is structured as follows:
 
-- `workspace` folder: Contains the dataset and the Jupyter Notebook file.
-  - `datasets` folder: Contains the dataset files:
+- `datasets` folder: Contains the dataset files:
     - `1_ignaz_semmelweis_1860.jpeg`
     - `2_monthly_deaths.csv`
     - `3_project_image.png`
     - 4_yearly_deaths_by_clinic.csv
-  - `notebook.ipynb`: Contains the Jupyter Notebook file.
+- `notebook.ipynb`: Contains the Jupyter Notebook file.
 - `README.md`: Project overview and instructions.
 
 ## Analysis
